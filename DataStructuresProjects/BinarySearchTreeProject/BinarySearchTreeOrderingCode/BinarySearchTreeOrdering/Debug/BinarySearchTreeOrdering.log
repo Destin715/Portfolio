@@ -1,0 +1,5 @@
+﻿  BinarySearchTree.cpp
+  BinarySearchTreeOrdering.cpp
+  Generating Code...
+C:\Users\Desti\source\repos\BinarySearchTreeOrdering\BinarySearchTreeOrdering\BinarySearchTree.cpp(58): warning C4715: 'BinarySearchTree::FindNode': not all control paths return a value
+  BinarySearchTreeOrdering.vcxproj -> C:\Users\Desti\source\repos\BinarySearchTreeOrdering\Debug\BinarySearchTreeOrdering.exe

@@ -1,0 +1,21 @@
+﻿  Adder.cpp
+C:\Users\Desti\source\repos\StringAdder\StringAdder\Adder.cpp(271,17): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Desti\source\repos\StringAdder\StringAdder\Adder.cpp(271,51): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Desti\source\repos\StringAdder\StringAdder\Adder.cpp(276,24): warning C4018:  '>=': signed/unsigned mismatch
+C:\Users\Desti\source\repos\StringAdder\StringAdder\Adder.cpp(276,59): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Desti\source\repos\StringAdder\StringAdder\Adder.cpp(281,24): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Desti\source\repos\StringAdder\StringAdder\Adder.cpp(281,58): warning C4018:  '>=': signed/unsigned mismatch
+C:\Users\Desti\source\repos\StringAdder\StringAdder\Adder.cpp(286,24): warning C4018:  '>=': signed/unsigned mismatch
+C:\Users\Desti\source\repos\StringAdder\StringAdder\Adder.cpp(286,59): warning C4018:  '>=': signed/unsigned mismatch
+C:\Users\Desti\source\repos\StringAdder\StringAdder\Adder.cpp(361,14): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Desti\source\repos\StringAdder\StringAdder\Adder.cpp(380,17): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Desti\source\repos\StringAdder\StringAdder\Adder.cpp(380,57): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Desti\source\repos\StringAdder\StringAdder\Adder.cpp(385,24): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Desti\source\repos\StringAdder\StringAdder\Adder.cpp(385,64): warning C4018:  '>=': signed/unsigned mismatch
+  MainFunctions.cpp
+C:\Users\Desti\source\repos\StringAdder\StringAdder\Adder.cpp(390,24): warning C4018:  '>=': signed/unsigned mismatch
+C:\Users\Desti\source\repos\StringAdder\StringAdder\MainFunctions.cpp(21,20): warning C4018:  '<': signed/unsigned mismatch
+  StringAdder.cpp
+  Generating Code...
+C:\Users\Desti\source\repos\StringAdder\StringAdder\MainFunctions.cpp(35,20): warning C4018:  '<': signed/unsigned mismatch
+  StringAdder.vcxproj -> C:\Users\Desti\source\repos\StringAdder\Debug\StringAdder.exe

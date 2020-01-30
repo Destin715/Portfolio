@@ -1,0 +1,5 @@
+﻿  GameofLife.cpp
+  LifeBoardGame.cpp
+  Generating Code...
+C:\Users\Desti\source\repos\LifeBoardGame\LifeBoardGame\LifeBoardGame.cpp(20,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LifeBoardGame.vcxproj -> C:\Users\Desti\source\repos\LifeBoardGame\Debug\LifeBoardGame.exe
