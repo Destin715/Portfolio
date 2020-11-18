@@ -2,6 +2,8 @@ Each project built to run in MX Visual Studio.
 Executable is in "Debug" folder of every project.
 Each project comes with a document with extensive documentation of each program, it's purpose, the purpose fo each function, and each function's Big O complexity.
 
+Downloadable Google Drive link for the project folder: https://drive.google.com/drive/folders/1tHrXA8MzwCyI8FCGbw2SfZKhaG95mEJC?usp=sharing
+
 Project 1: Conway's Game of Life
 - Simulation of John Conway’s famous “Game of Life” simulation utilizing dynamic memory allocation and turn-based processing.
 
