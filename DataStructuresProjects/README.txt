@@ -11,5 +11,5 @@ Project 2: String Adder
 Project 3: Circular Queue Structures
 - Three different implementations of a queue structure. 1) Uses a dynamic array which avoids constant reshuffling of numbers by keeping track of the start and end of the user defined queue maintaining a “circular” structure. 2) Uses a normal linked list implementation as well. 3) Uses a circular linked list where the last node connects to the first node.
 
-Project 4:
+Project 4: Binary Search Trees
 - Implementation of a binary search tree structure that is able to print in preorder, inorder, and postorder.
